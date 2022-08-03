@@ -1,0 +1,135 @@
+@media(max-width:575.98px ){
+    .link{
+        display: none;
+    }
+    .login-btn{
+        display: none;
+    }
+    /* part1 */
+    .content-part1{
+        flex-direction: column;
+    }
+    .title{
+        font-size: 32px;
+    }
+    .text{
+        text-align: center;
+    }
+    .wave-me{
+        margin-bottom: 20px;
+    }
+    /* part2 */
+    .block-box{
+        flex-direction: column;
+    }
+    /* part3 */
+    .content-part3{
+        flex-direction: column;
+    }
+    .img-power{
+        width: 100%;
+        padding-top: 6%;
+    }
+    .information{
+        text-align: center;
+        padding-top: 25px;
+    }
+    /* part4 */
+    .content-part4{
+        flex-direction: column;
+    }
+    .item1{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .work{
+        border-bottom:none;
+    }
+    /* part 6*/
+    .qustion{
+        font-size: 2rem;
+    }
+    .man-speak{
+        text-align: center;
+    }
+    .last-info6{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .explain6{
+        font-size: 0.9rem;
+    }
+    .btn6{
+        padding: 5px 10px ;
+        font-size: 0.8rem;
+        margin-top: 5px;
+    }
+    /* part7 */
+    .test-part7{
+        flex-direction: column;
+        /* justify-content: center;
+        align-items: center; */
+    }
+    .test{
+        padding: 50px 20px ;
+        text-align: center;
+        margin-top: 15px;
+    }
+    /* part8 */
+    .item-part8{
+        flex-direction: column;
+    }
+    .img-social{
+        width: 100%;
+    }
+    .explain-part8{
+        text-align: center;
+    }
+    .surious{
+        padding: 10px;
+        margin-right: 10px;
+    }
+    .info-serious1{
+        font-size: 1rem;
+    }
+    .info-serious2{
+        font-size: 0.9rem;
+    }
+    /* part9 */
+    .info-part9{
+        flex-direction: column;
+    }
+    .plan{
+        text-align: center;
+    }
+    .title-plan{
+        font-size: 1rem;
+        padding-top: 5px;
+    }
+    .explain-plan{
+        font-size: 0.8;
+        padding-bottom: 15px;
+    }
+    /* part10 */
+    .content-part10{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-logo{
+        width: 50%;
+        padding-bottom: 25px;
+    }
+    /* part11 */
+    .content-part11{
+        flex-direction: column;
+    }
+    .direction2{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .title-link{
+        color: #3D37F1;
+    }
+}
